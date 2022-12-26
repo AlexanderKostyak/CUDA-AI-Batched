@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.0.32112.339
+VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CUDA BATCH NN", "CUDA BATCH NN.vcxproj", "{C74C77EE-A497-478C-A0B4-CDE1AFA0C512}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CUDA BATCH NN", "CUDA BATCH NN\CUDA BATCH NN.vcxproj", "{936C2039-D026-4D71-97FC-53F80781F999}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C74C77EE-A497-478C-A0B4-CDE1AFA0C512}.Debug|x64.ActiveCfg = Debug|x64
-		{C74C77EE-A497-478C-A0B4-CDE1AFA0C512}.Debug|x64.Build.0 = Debug|x64
-		{C74C77EE-A497-478C-A0B4-CDE1AFA0C512}.Release|x64.ActiveCfg = Release|x64
-		{C74C77EE-A497-478C-A0B4-CDE1AFA0C512}.Release|x64.Build.0 = Release|x64
+		{936C2039-D026-4D71-97FC-53F80781F999}.Debug|x64.ActiveCfg = Debug|x64
+		{936C2039-D026-4D71-97FC-53F80781F999}.Debug|x64.Build.0 = Debug|x64
+		{936C2039-D026-4D71-97FC-53F80781F999}.Release|x64.ActiveCfg = Release|x64
+		{936C2039-D026-4D71-97FC-53F80781F999}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {9401AFC8-A962-4812-91DE-5979EE9506BE}
+		SolutionGuid = {442C06EE-98FB-4351-B0E7-6B0BCEF4B383}
 	EndGlobalSection
 EndGlobal
